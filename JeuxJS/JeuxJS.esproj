@@ -1,5 +1,6 @@
 <Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.2752196">
   <ItemGroup>
-    <Folder Include=".vscode\www\" />
+    <None Include=".vscode\www\index.html" />
+    <None Include=".vscode\www\newfolder\echo.js" />
   </ItemGroup>
 </Project>
