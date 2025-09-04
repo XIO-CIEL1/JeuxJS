@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "JeuxJS", "JeuxJS\JeuxJS.esproj", "{1C3ED7DA-95E4-3D81-D74B-C9AFB662D10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C3ED7DA-95E4-3D81-D74B-C9AFB662D10E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C3ED7DA-95E4-3D81-D74B-C9AFB662D10E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C3ED7DA-95E4-3D81-D74B-C9AFB662D10E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1C3ED7DA-95E4-3D81-D74B-C9AFB662D10E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C3ED7DA-95E4-3D81-D74B-C9AFB662D10E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C3ED7DA-95E4-3D81-D74B-C9AFB662D10E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5D96E29-9B52-43FB-B509-25E598A5DA54}
+	EndGlobalSection
+EndGlobal
